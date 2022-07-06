@@ -18,6 +18,16 @@ look at this project by one [click](https://hosseinmazhar.github.io/Tailwind-Das
 
 - Super RESPONSIVE design for Desktop,Tablets,Smartphones even with the width of "80 pixels"
 
+![tablet version](https://user-images.githubusercontent.com/91896821/177549599-d6f4769b-d755-4302-8af9-0124d63228a8.PNG)   ![mobile version](https://user-images.githubusercontent.com/91896821/177549692-0c307988-36fd-421a-baf3-be23ea5f4d98.PNG)
 
 
-![tablet version](https://user-images.githubusercontent.com/91896821/177549599-d6f4769b-d755-4302-8af9-0124d63228a8.PNG) ![mobile version](https://user-images.githubusercontent.com/91896821/177549692-0c307988-36fd-421a-baf3-be23ea5f4d98.PNG)
+- beautiful HOVER effects
+
+![hover](https://user-images.githubusercontent.com/91896821/177549934-1846cd40-f4d3-4d66-bcef-abaf7e119719.PNG)
+
+
+###what I've been used in this project
+-HTML
+-CSS
+-JAVASCRIPT
+-and of course TAILWIND CSS as a magic
