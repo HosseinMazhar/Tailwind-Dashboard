@@ -26,8 +26,8 @@ look at this project by one [click](https://hosseinmazhar.github.io/Tailwind-Das
 ![hover](https://user-images.githubusercontent.com/91896821/177549934-1846cd40-f4d3-4d66-bcef-abaf7e119719.PNG)
 
 
-###what I've been used in this project
--HTML
--CSS
--JAVASCRIPT
--and of course TAILWIND CSS as a magic
+### what I've been used in this project
+- HTML
+- CSS
+- JAVASCRIPT
+- and of course TAILWIND CSS as a magic
