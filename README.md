@@ -16,7 +16,7 @@ look at this project by one [click](https://hosseinmazhar.github.io/Tailwind-Das
 
 
 
-- Super RESPONSIVE design for all Desktop sreens,Tablets,Smartphones even with "80 pix" width
+- Super RESPONSIVE design for all Desktop screens,Tablets,Smartphones even with "80 pix" width
 
 ![tablet version](https://user-images.githubusercontent.com/91896821/177549599-d6f4769b-d755-4302-8af9-0124d63228a8.PNG)   ![mobile version](https://user-images.githubusercontent.com/91896821/177549692-0c307988-36fd-421a-baf3-be23ea5f4d98.PNG)
 
